@@ -1,0 +1,42 @@
+div{
+    font-family: 'Lobster', cursive;
+    text-align: left;
+    font-size: 80px;
+    margin-top: 10%;
+    border-color: black 15px;
+}
+
+.wlc{
+    color: rgb(231, 31, 31);
+    
+}
+
+.ping{
+
+    color: antiquewhite;
+}
+.credit{
+    font-size:x-large;
+    margin-left: 25%;
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+button{
+
+    margin-left: 32%;
+    margin-top: 120px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: rgb(111, 150, 223);
+}
+
+body{
+    background-color: #12181B;
+    background-repeat: no-repeat;
+    background-size: 1280px;
+    background-position: center;
+   
+}
